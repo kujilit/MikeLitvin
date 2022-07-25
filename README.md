@@ -1,3 +1,2 @@
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeLitvin)](https://github.com/anuraghazra/github-readme-stats)  
-
-
+<h1 align="center">Hi there, I'm Mike</h1>
+<h3 align="center">Computer science student from Russia.</h3>
